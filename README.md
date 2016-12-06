@@ -1,6 +1,6 @@
 # Fallout Color Preset for iTerm2
 
-Attempting to match the color palette of the Pip-Boy interface in Fallout 3/4.
+Attempting to match the color palette of the terminal in Fallout 4.
 
 ![](https://raw.githubusercontent.com/jacobproffer/iterm2-fallout/master/img/iterm2-fallout-preview.png)
 
