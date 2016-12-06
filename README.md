@@ -10,5 +10,5 @@ Attempting to match the color palette of the terminal present in Fallout 3/4. Wo
 
 ## Optional Installs
 
-[Agnoster ZSH theme](https://github.com/agnoster/agnoster-zsh-theme)
-[Roboto Mono font family](https://github.com/powerline/fonts/tree/master/RobotoMono)
++ [Agnoster ZSH theme](https://github.com/agnoster/agnoster-zsh-theme)
++ [Roboto Mono font family](https://github.com/powerline/fonts/tree/master/RobotoMono)
